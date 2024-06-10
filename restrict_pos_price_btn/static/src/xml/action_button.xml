@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<templates id="template" xml:space="preserve">
+    <!-- This is used to restrict the Refund  button if it is restricted -->
+    <t t-name="DashBoardButton">
+        <div class="control-button">
+            <i class="fa fa-dashboard"/>Dashboard
+        </div>
+    </t>
+</templates>
+
+
+
